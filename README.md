@@ -1,2 +1,6 @@
 # hello-world
-stooppid
+Salafi
+Bangladeshi
+Expatriate
+Lazy
+Left-handed
